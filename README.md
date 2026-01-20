@@ -1,4 +1,4 @@
-#AI Chatbot 🤖💖
+# AI Chatbot 🤖💖
 
 A CLI-based AI chatbot built with **Node.js** and **Google Gemini API**, designed to deliver short, emotional, and roleplay-style responses using custom system prompts.
 
