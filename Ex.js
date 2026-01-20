@@ -3,7 +3,7 @@ import readlineSync from "readline-sync";
 const History = [];
 // The client gets the API key from the environment variable `GEMINI_API_KEY`.
 const ai = new GoogleGenAI({
-  apiKey: "AIzaSyB0O9Z335ALAijK1qx33ubXsZJi6-UiIQc",
+  apiKey: "use your api key here",
 });
 
 async function chating(userProblem) {
